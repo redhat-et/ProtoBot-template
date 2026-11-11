@@ -20,7 +20,8 @@ GitHub template repositories copy files but not repository settings, so each new
 
 ### Verify the setup
 
-1. Open a pull request that references an issue without a closing keyword.
-2. Merge it with squash.
-3. Confirm the linked issue stays open.
-4. Confirm the squash commit message equals the pull request title and body.
+1. Open a pull request that changes a file, and link an issue through the pull request's Development section.
+2. Do not use a closing keyword in the title, body, or commits.
+3. Merge the pull request with squash.
+4. Confirm the linked issue stays open.
+5. Confirm the squash commit message equals the pull request title and body.
