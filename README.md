@@ -1,6 +1,7 @@
 # ProtoBot-template
 
 This repository is a GitHub template for starting ProtoBot-based projects.
+GitHub template repositories copy files but not repository settings, so each new project must apply the settings below.
 
 ## Post-instantiation setup checklist
 
